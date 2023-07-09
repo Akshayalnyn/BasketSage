@@ -1,1 +1,2 @@
-# BasketSage
+This project aims to analyze customer behavior and preferences by segmenting them based on their purchasing patterns. By examining the items purchased together (using the StockCode and Description columns), the project seeks to identify distinct groups of customers who exhibit similar shopping habits.
+Through customer segmentation, this project aims to uncover valuable insights that can drive business strategies, such as targeted marketing campaigns, personalized recommendations, and inventory management optimization. By understanding the preferences and behavior of different customer segments, businesses can enhance customer satisfaction, increase sales, and foster long-term customer loyalty.
